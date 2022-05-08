@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1649189958 source:c:\projects\genetic_algo_nov\genetic_algo_nov\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	"Chromosome.h"
+	"Population.h"
+
+1649189834 c:\projects\genetic_algo_nov\genetic_algo_nov\chromosome.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<iostream>
+
+1649189799 c:\projects\genetic_algo_nov\genetic_algo_nov\population.h
+	"Chromosome.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<time.h>
+	<windows.h>
+
