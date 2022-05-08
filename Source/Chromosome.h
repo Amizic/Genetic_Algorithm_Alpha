@@ -7,10 +7,6 @@
 #include <iostream>
 using namespace std;
 
-// STUDENT: VUK AMIZIC IT 14/18 EVOLUCIJA HROMOZOMA, MUTACIJA, GENERISANJE NOVIH GENERACIJA - DOMACI MEKO RACUNARSTVO
-// PREDMETNI PROFESOR: VLADIMIR BRTKA
-// PREDMETNI ASISTENT: IGOR VECSTEJN
-
 class Chromosome{
     public:
     int gen,chromosome_lenght;
